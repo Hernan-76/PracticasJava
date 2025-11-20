@@ -1,0 +1,343 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Matrices",
+            "request": "launch",
+            "mainClass": "Seccion10.Matrices",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "PruebaTotal",
+            "request": "launch",
+            "mainClass": "Practicar.BIBLIO.PruebaTotal",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "PruebaAlumnos",
+            "request": "launch",
+            "mainClass": "Practicar.COLEGIO.PruebaAlumnos",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "PruenaBanco",
+            "request": "launch",
+            "mainClass": "Practicar.BANCO.PruenaBanco",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "PruebaPersonas",
+            "request": "launch",
+            "mainClass": "Practicar.PEAPLE.PruebaPersonas",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "PruebaCoche",
+            "request": "launch",
+            "mainClass": "Practicar.PruebaCoche",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "PruebaVentas",
+            "request": "launch",
+            "mainClass": "Ventas.PruebaVentas",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "PruebaPersona",
+            "request": "launch",
+            "mainClass": "Seccion12.PruebaPersona",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "PruebaAnimal",
+            "request": "launch",
+            "mainClass": "Seccion12.Animales.PruebaAnimal",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Aritmetica",
+            "request": "launch",
+            "mainClass": "Seccion12.Aritmetica",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Clase1",
+            "request": "launch",
+            "mainClass": "Seccion12.Clase1",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "FuncionRecursiva",
+            "request": "launch",
+            "mainClass": "Seccion11.FuncionRecursiva",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Funcion3",
+            "request": "launch",
+            "mainClass": "Seccion11.Funcion3",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Funcion1",
+            "request": "launch",
+            "mainClass": "Seccion11.Funcion1",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Diagonal",
+            "request": "launch",
+            "mainClass": "Seccion10.Diagonal",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Matrices3",
+            "request": "launch",
+            "mainClass": "Seccion10.Matrices3",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Matrices2",
+            "request": "launch",
+            "mainClass": "Seccion10.Matrices2",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Promedio",
+            "request": "launch",
+            "mainClass": "Seccion9.Promedio",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Arreglos",
+            "request": "launch",
+            "mainClass": "Seccion9.Arreglos",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Revisar.Calculadora",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "DibujoRectangulo",
+            "request": "launch",
+            "mainClass": "Seccion8.DibujoRectangulo",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "AdivinaAdivinanza",
+            "request": "launch",
+            "mainClass": "Seccion8.AdivinaAdivinanza",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Seccion8.Calculadora",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "CajeroAuto",
+            "request": "launch",
+            "mainClass": "Seccion8.CajeroAuto",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "MenuIterativo",
+            "request": "launch",
+            "mainClass": "Seccion8.MenuIterativo",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "AcumulacionSuma",
+            "request": "launch",
+            "mainClass": "Seccion8.AcumulacionSuma",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "NumerosImpares",
+            "request": "launch",
+            "mainClass": "Seccion8.NumerosImpares",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "prueba",
+            "request": "launch",
+            "mainClass": "prueba",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "SistemaAutenticacionSwicth",
+            "request": "launch",
+            "mainClass": "Seccion7.SistemaAutenticacionSwicth",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "SistemaAutenticacion",
+            "request": "launch",
+            "mainClass": "Seccion7.SistemaAutenticacion",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "SistemaEnvios",
+            "request": "launch",
+            "mainClass": "Seccion7.SistemaEnvios",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "SistemaCalificaciones",
+            "request": "launch",
+            "mainClass": "Seccion7.SistemaCalificaciones",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "EstacionAño",
+            "request": "launch",
+            "mainClass": "Seccion7.EstacionAño",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "MayordosNumeros",
+            "request": "launch",
+            "mainClass": "Seccion7.MayordosNumeros",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "ReservaHotel",
+            "request": "launch",
+            "mainClass": "Seccion7.ReservaHotel",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Tienda",
+            "request": "launch",
+            "mainClass": "Seccion7.Tienda",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "SistemeAuten",
+            "request": "launch",
+            "mainClass": "Seccion6.SistemeAuten",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "ID",
+            "request": "launch",
+            "mainClass": "Seccion5.ID",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Receta",
+            "request": "launch",
+            "mainClass": "Seccion5.Receta",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "HolaMundo",
+            "request": "launch",
+            "mainClass": "Seccion1.HolaMundo",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Presentate",
+            "request": "launch",
+            "mainClass": "Seccion1.Presentate",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "DetalleLibro",
+            "request": "launch",
+            "mainClass": "Seccion2.DetalleLibro",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "DetallePersona",
+            "request": "launch",
+            "mainClass": "Seccion2.DetallePersona",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Email",
+            "request": "launch",
+            "mainClass": "Seccion2.Email",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "TiendaLinea",
+            "request": "launch",
+            "mainClass": "Seccion2.TiendaLinea",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Seccion2.Variables",
+            "projectName": "Ultimate JAVA_8292c0d8"
+        }
+    ]
+}
